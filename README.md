@@ -1,5 +1,3 @@
-Here's a ready-to-use README.md (Markdown) you can copy into your GitHub repo. It includes human-written descriptions, a Table of Contents, installation / usage / testing steps (exact commands from your screenshots), and technology badges (logos via shields). Paste the entire block below into your README.md.
-
 # STOCK-UP-BACKEND
 
 > Empowering smarter investments through seamless data integration
